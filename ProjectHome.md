@@ -1,0 +1,1 @@
+Translucent Dark Display is an display-plugin for the application Growl for Windows (http://www.growlforwindows.com/) that uses several features of Windows Presentation Foundation (WPF).
